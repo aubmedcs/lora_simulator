@@ -36,26 +36,10 @@ The program will automatically install these dependencies if you give permission
 ---
 
 ## Installation
+1. Download all the files.
+2. Unzip them.
+3. If you have any python editor. You have just to launch  it and open the unziped folder. Then just run the file Lora_Simulator.py.
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/lorawan-network-evaluation.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd lorawan-network-evaluation
-   ```
-
-3. Run the program:
-
-   ```bash
-   python main.py
-   ```
-
----
 
 ## Usage
 
@@ -91,7 +75,7 @@ The program will automatically install these dependencies if you give permission
 ---
 
 ## Citation
-You are not allowed to use this code until the paper review process finishes
+You are not al;lowed to use this code until the paper review process finishes
 
 
 ## License
