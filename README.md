@@ -75,7 +75,7 @@ The program will automatically install these dependencies if you give permission
 ---
 
 ## Citation
-You are not al;lowed to use this code until the paper review process finishes
+You are not allowed to use this code until the paper review process finishes
 
 
 ## License
