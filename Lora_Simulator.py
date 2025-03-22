@@ -47,16 +47,22 @@ if permission==1:
         
         file_path = 'free.pkl'
         print("you have chosen the free case model")
-
+        print("minimum SNR is -12.00dB, maximum SNR is 13.25dB")
+        print("minimum Tx Power is 2dB, maximum Tx Power is 16dB")
+        print(" ")
     elif choice==2:
         
         file_path = 'covered.pkl'
         print("you have chosen the covered case model")
+        print("minimum SNR is -12.00dB, maximum SNR is 13.75dB")
+        print("minimum Tx Power is 2dB, maximum Tx Power is 16dB")
 
     elif choice==3:
         
         file_path = 'underground.pkl'
         print("you have chosen the underground case model")
+        print("minimum SNR is -11.75dB, maximum SNR is 12.50dB")
+        print("minimum Tx Power is 2dB, maximum Tx Power is 16dB")
 
     else:
         print("Try to type either 1 or 2 or 3. ")
